@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BoiDontCry i'm a creator,newbie coding farmer and hardware engineer.Anyway,i'm a rapper and writer too.
+- 👋 Hi, I’m @BoiDontCry i'm a creator,coding farmer and hardware engineer.Anyway,i'm a rapper and writer too.
 - 👀 I’m interested in coding and recording 
-- 🌱 I’m currently learning well arduino and c++
-- 📫 If u wanna DM me plz use 2vain0131@gmail.com
+- 🌱 I’m currently learning arduino and c++
+- 📫 If u wanna contact me plz use 2vain0131@gmail.com
 
 <!---
 BoiDontCry/BoiDontCry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
