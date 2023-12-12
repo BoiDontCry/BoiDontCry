@@ -19,8 +19,9 @@
 
 
 
-- 👋 Hi, I’m @BoiDontCry i'm a creator,coding farmer and hardware engineer.Anyway,i'm a rapper and writer too.
-- 👀 I’m interested in coding and recording 
+- 👋 Hi, I’m @BoiDontCry  Code here Design here ...
+- 👀 Cook hiphop and drawing....
+- And fan of Rainbow Six!!!
 - 🌱 I’m currently learning Arduino and Android
 - 📫 If u wanna contact me plz use 2vain0131@gmail.com
 
