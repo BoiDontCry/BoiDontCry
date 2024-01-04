@@ -19,9 +19,10 @@
 
 
 
-- 👋 Hi, I’m @BoiDontCry  Code here Design here ...
+- 👋 Hi, I’m @BoiDontCry  Code here...
+- 💀 (BUT literally!I'm a Star Collector lmao)
 - 👀 Cook hiphop and drawing....
-- And fan of Rainbow Six!!!
+- 👾 And fan of Rainbow Six!!!
 - 🌱 I’m currently learning Arduino and Android
 - 📫 If u wanna contact me plz use 2vain0131@gmail.com
 
